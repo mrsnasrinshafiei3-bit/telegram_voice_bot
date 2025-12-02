@@ -1,0 +1,8 @@
+Baby Voice Bot
+----------------
+This bot converts your Persian voice messages into simple English text + English audio for your child.
+
+Environment variables needed:
+
+OPENAI_API_KEY=your_openai_key
+TELEGRAM_TOKEN=your_bot_father_token
